@@ -1,8 +1,7 @@
 title: Felipe Gaiad
-author: Felipe Gaiad
 email: fpgaiad@gmail.com
-theme: tactile
+theme: minima
 description: > # this means to ignore newlines until "baseurl:"
 # social links
-github_username:  github.com/fpgaiad
+github_username: github.com/fpgaiad
 show_excerpts: true # set to false to remove excerpts on the homepage
