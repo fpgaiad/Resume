@@ -8,6 +8,27 @@ My history began in 2017 when I started to look for some way to build a mobile A
 
 I started to spend all of my free time having fun with Java projects and some months later scratching the Android Studio also. Continuing, I dived deeply in coding, choosing Android and Kotlin as my study focus, and had a lot of help from the community and special people that unbelievably appeared in my way. It certainly was the best choice that I've made!
 
-In July 2019 I was hired as the only Android developer on the engineering team at Viva Decora, an architecture & decoration IT startup with more than 5 million monthly user accesses. There, I met extraordinary people who played a very important role in the development of my career. In addition to contributing to the company, I improved on several fronts of knowledge in the area.
+In July 2019 I was hired as the only Android developer on the engineering team at Viva Decora, an architecture & decoration IT startup with more than 5 million monthly user accesses. There, I met extraordinary people who played a very important role in my career development. Thus, I was able contribute to the company and, at the same time, take a real improvement in my knowledge.
 
 So, here I am. Fulfilled and crafting my way through this amazing area.
+
+
+# Main knowledge
+
+* Java;
+* Kotlin;
+* Android Studio;
+* Rx (Java/Kotlin/Android);
+* Firebase analytics events;
+* Firebase crashlytics;
+* Firebase performance network;
+* Google Analytics;
+* Microsoft AppCenter;
+* AdMob;
+* Jira;
+* GitHub;
+* Push Notification;
+* Play Store (publishing app);
+* MVP / MVVM arquitecture;
+* Scrum/Agile;
+* App data analysis;
