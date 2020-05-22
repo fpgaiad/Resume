@@ -14,6 +14,7 @@ So, here I am. Fulfilled and crafting my way through this amazing area.
 
 
 # Main knowledge
+___
 
 * Java;
 * Kotlin;
@@ -24,11 +25,11 @@ So, here I am. Fulfilled and crafting my way through this amazing area.
 * Firebase performance network;
 * Google Analytics;
 * Microsoft AppCenter;
-* AdMob;
+* Google AdMob;
 * Jira;
 * GitHub;
-* Push Notification;
-* Play Store (publishing app);
-* MVP / MVVM arquitecture;
+* Push Notification (Firebase/Onesignal/Pushwoosh);
+* Play Store (App publishing/Statistics);
+* MVP/MVVM clean arquitecture;
 * Scrum/Agile;
 * App data analysis;
