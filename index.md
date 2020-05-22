@@ -12,24 +12,24 @@ In July 2019 I was hired as the only Android developer on the engineering team a
 
 So, here I am. Fulfilled and crafting my way through this amazing area.
 
+___
 
 # Main knowledge
+
 ___
 
 * Java;
 * Kotlin;
 * Android Studio;
 * Rx (Java/Kotlin/Android);
-* Firebase analytics events;
-* Firebase crashlytics;
-* Firebase performance network;
+* Firebase (Analytics events/Crashlytics/Performance network);
 * Google Analytics;
 * Microsoft AppCenter;
 * Google AdMob;
 * Jira;
 * GitHub;
-* Push Notification (Firebase/Onesignal/Pushwoosh);
-* Play Store (App publishing/Statistics);
-* MVP/MVVM clean arquitecture;
 * Scrum/Agile;
-* App data analysis;
+* Push Notification (Firebase/Onesignal/Pushwoosh);
+* Play Store (App publishing);
+* MVP/MVVM clean arquitecture;
+* Analytic mindset to evaluate app health;
