@@ -1,3 +1,5 @@
+![logo](logo.png)
+
 I'm an Android Developer who cares for excellence in good design and clean architecture code. Always aiming the highest level in development according to the current Google guidelines.
 
 My history began in 2017 when I started to look for some way to build a mobile App to make some ideas come true. While, in parallel, I found my self seeking for some personal life project with a real meaning for me to pursuit. And it was the perfect match!
