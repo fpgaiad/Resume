@@ -1,5 +1,3 @@
-# Welcome!
-
 #### I'm an Android Developer who cares for excellence in good design and clean architecture code. Always aiming the highest level in development according to the current Google guidelines.
 
 #### In 2017 I started to look for some way to build a mobile App to make some ideas happen. While, in parallel, I found my self seeking for some personal life project that really has a meaning for me to pursuit, the one project that has the same frequency of mine. And it was the perfect match!
