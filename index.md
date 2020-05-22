@@ -32,4 +32,4 @@ ___
 * Push Notification (Firebase/Onesignal/Pushwoosh);
 * Play Store (App publishing);
 * MVP/MVVM clean arquitecture;
-* Analytic mindset to evaluate app health;
+* Analytic mindset to evaluate app health.
