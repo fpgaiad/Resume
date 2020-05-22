@@ -7,5 +7,3 @@ I started to spend all of my free time having fun with Java projects and some mo
 In July 2019 I was hired at Viva Decora (IT startup in the area of architecture and decoration with more than 5 million monthly sessions) as the only Android developer on the engineering team. There, I met exceptional people who played a very important role in the development of my career. In addition to contributing to the company, I improved on several fronts of knowledge in the area.
 
 So, here I am. Crafting my way through this amazing area, fulfilled and convicted that I'm contributing to a better world.
-
-Felipe Gaiad.
