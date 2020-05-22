@@ -22,6 +22,11 @@ ___
 * Kotlin;
 * Android Studio;
 * Rx (Java/Kotlin/Android);
+* REST/RESTful APIs;
+* Retrofit;
+* Picasso;
+* Gson;
+* Unit Tests;
 * Firebase (Analytics events/Crashlytics/Performance network);
 * Google Analytics;
 * Microsoft AppCenter;
