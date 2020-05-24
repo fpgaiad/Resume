@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="250" src="https://github.com/fpgaiad/about.me/blob/master/logo.png">
+  <img width="250" src="https://github.com/fpgaiad/about.me/logo.png">
 </p>
 
 ___
