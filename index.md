@@ -1,4 +1,6 @@
-<img src="logo.png" width=250>
+<p align="center">
+  <img width="250" src="https://github.com/fpgaiad/about.me/blob/master/logo.png">
+</p>
 
 ___
 
