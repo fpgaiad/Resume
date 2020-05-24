@@ -1,5 +1,5 @@
-![](logo.png)
-<img src="https://github.com/fpgaiad/about.me/logo.png" height="24">
+<img src="logo.png" width=250>
+
 ___
 
 I'm an Android Developer who cares for excellence in good design and clean architecture code. Always aiming the highest level in development according to the current Google guidelines.
